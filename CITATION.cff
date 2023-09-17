@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite as below."
+authors:
+  - family-names: Sburlan
+    given-names: Andrei-Florin
+title: "Discovering Predictive Patterns: A Study of Contextual Factors for Next Generation Branch Predictors"
+date-released: 2023-06-19
+url: "https://github.com/asburlan01/icl_masters_disertation"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Sburlan
+      given-names: Andrei-Florin
+  title: "Discovering Predictive Patterns: A Study of Contextual Factors for Next Generation Branch Predictors"
+  date-released: 2023-06-19
+  url: "https://github.com/asburlan01/icl_masters_disertation"
